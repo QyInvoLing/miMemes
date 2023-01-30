@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "miMemes",
+  "version": "1.0",
+  "description": "Memes extension for michan.",
+  "icons": {
+    "99": "assets/icon/emote.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://michan.fun/*"
+      ],
+      "js": [
+        "content_modify.js"
+      ]
+    }
+  ],
+  "options_ui": {
+    "page": "options/options.html",
+    "open_in_tab": true
+  },
+  "permissions": [
+    "storage"
+  ]
+}

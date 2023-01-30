@@ -1,2 +1,11 @@
 # miMemes
-Customizable memes browser extension for michan
+
+> miMemes（读音随意，建议读米迷姆斯，也可以读米咩咩）是一款用于为米站年老（3年）失修的前端页面提供额外表情包功能的**浏览器拓展**。
+
+# 下载
+https://wwzv.lanzoue.com/iKsCE0m5wneh
+
+# 安装
+**正在等Edge Extension Store审核，先用这个方法**
+将下载得到的安装包解压至某个文件夹内，然后打开你的浏览器拓展页。
+打开浏览器拓展页后，将“开发人员模式”打开，然后“加载解压缩的拓展”，选择你刚才解压的目录，然后启用该拓展即可。
